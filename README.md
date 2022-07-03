@@ -14,3 +14,7 @@
 ### Programming languages 
 <img align="left" alt="HTML" width="26px" src="https://user-images.githubusercontent.com/36749450/177061186-fae2ca56-0d6d-4b7e-82d4-b1994ffe0ac0.png" />
 <img align="left" alt="CSS" width="26px" src="https://user-images.githubusercontent.com/36749450/177061183-be13e28c-8239-454c-89bb-305f167e4cd8.png" />
+<img align="left" alt="JS" width="26px" src="https://user-images.githubusercontent.com/36749450/177061328-6beb2683-e60c-4aef-bc90-3b0266503df8.png" />
+<img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/36749450/177061333-c348936b-7aa6-4a3e-a408-c525d478f4e5.png" />
+<img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/36749450/177061335-9f70093b-d743-4e1f-8a1b-58e21a6369d0.png" />
+
