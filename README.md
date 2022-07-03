@@ -12,4 +12,4 @@
 - ⚡ Fun fact: ... I play guitar
 
 ### Programming languages 
-[<img align="left" alt="HTML" width="26px" src="![html_icon](https://user-images.githubusercontent.com/36749450/177061186-fae2ca56-0d6d-4b7e-82d4-b1994ffe0ac0.png)" />]
+[<img align="left" alt="HTML" width="26px" src="https://user-images.githubusercontent.com/36749450/177061186-fae2ca56-0d6d-4b7e-82d4-b1994ffe0ac0.png" />]
