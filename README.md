@@ -9,5 +9,5 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Jamil Images](http://www.jamilimages.com/contact)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I enjoy listening to rock/metal music 
+- ⚡ Fun fact: ... I play guitar
 
