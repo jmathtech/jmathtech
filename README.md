@@ -2,7 +2,7 @@
 
 ### Here's what I'm currently working on: 👋
 
-- 🔭 I’m currently working on ... Youtube
+- 🔭 I’m currently working on ... Youtube & Web Portfolio
 - 🌱 I’m currently learning ... React JS
 - 👯 I’m looking to collaborate on ... Three.js
 - 🤔 I’m looking for help with ... AWS
