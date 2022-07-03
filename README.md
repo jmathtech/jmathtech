@@ -9,7 +9,7 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Jamil Images](http://www.jamilimages.com/contact)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I play guitar
+- ⚡ Fun fact: ... I play guitar and shoot pictures.
 
 ### Programming languages 
 <img align="left" alt="HTML" width="26px" src="https://user-images.githubusercontent.com/36749450/177061186-fae2ca56-0d6d-4b7e-82d4-b1994ffe0ac0.png" />
