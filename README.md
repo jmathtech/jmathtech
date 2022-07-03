@@ -18,3 +18,5 @@
 <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/36749450/177061333-c348936b-7aa6-4a3e-a408-c525d478f4e5.png" />
 <img align="left" alt="C Sharp" width="26px" src="https://user-images.githubusercontent.com/36749450/177061419-531d23ef-ada9-4922-8c39-d9481b7c3225.svg" />
 <img align="left" alt="Node JS" width="26px" src="https://user-images.githubusercontent.com/36749450/177061691-8238df72-82ec-4653-a371-f438dec89de4.png" />
+<img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/36749450/177061783-c6c445a0-a064-4094-a14f-7365cd955f01.png" />
+
