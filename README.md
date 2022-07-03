@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Three.js
 - 🤔 I’m looking for help with ... React JS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [URL/Jamil Images](http://www.jamilimages.com/contact)
+- 📫 How to reach me: ... [Jamil Images](http://www.jamilimages.com/contact)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I enjoy rock/metal music 
 
