@@ -1,7 +1,6 @@
 ## Hey there! My name is Jamil Matheny.
-### Here is what I'm currently working on. 👋
 
-Here are some ideas to get you started:
+### Here is what I'm currently working on: 👋
 
 - 🔭 I’m currently working on ... Youtube
 - 🌱 I’m currently learning ... React JS
