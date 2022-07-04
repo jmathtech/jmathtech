@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/36749450/177067409-cc9e25a6-c378-4d47-
 - 👯 I’m looking to collaborate on ... Three.js
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Jamil Images](http://www.jamilimages.com/contact)
+- 📫 How to reach me: ... [Contact Me](mailto:jamil.matheny@gmail.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I play guitar and shoot pictures.
 
