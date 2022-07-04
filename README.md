@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/36749450/177067409-cc9e25a6-c378-4d47-
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I play guitar and shoot pictures.
 
-### Programming languages
+### Programming languages I'm learning and currently working with
 <img align="left" alt="HTML" width="36px" src="https://user-images.githubusercontent.com/36749450/177061186-fae2ca56-0d6d-4b7e-82d4-b1994ffe0ac0.png" />
 <img align="left" alt="CSS" width="36px" src="https://user-images.githubusercontent.com/36749450/177061183-be13e28c-8239-454c-89bb-305f167e4cd8.png" />
 <img align="left" alt="JS" width="36px" src="https://user-images.githubusercontent.com/36749450/177061328-6beb2683-e60c-4aef-bc90-3b0266503df8.png" />
@@ -31,7 +31,7 @@ https://user-images.githubusercontent.com/36749450/177067409-cc9e25a6-c378-4d47-
 
 <br><br/>
 
-### Developer Tools
+### Developer Tools I Use
 <img align="left" alt="Mobile Dev" width="36px" src="https://user-images.githubusercontent.com/36749450/177062150-e0b37c76-ac6f-45b6-b82b-d565b2d79023.png" />
 <img align="left" alt="Docker" width="36px" src="https://user-images.githubusercontent.com/36749450/177062468-6ec488a9-aa72-4ee6-adca-94c8c71df004.svg" />
 <img align="left" alt="Circle CI" width="36px" src="https://user-images.githubusercontent.com/36749450/177062519-ef1b7a6f-54ca-4764-95a7-ab5097dd7fda.png" />
@@ -42,5 +42,6 @@ https://user-images.githubusercontent.com/36749450/177067409-cc9e25a6-c378-4d47-
 <img align="left" alt="Pycharm" width="36px" src="https://user-images.githubusercontent.com/36749450/177065120-cc613933-0ba4-45f8-98cc-880156b73160.png" />
 <img align="left" alt="Apache" width="36px" src="https://user-images.githubusercontent.com/36749450/177065683-326092db-6b32-4bec-af1f-fe0466634297.svg" />
 
-
+<br><br/>
+### My Github Stats
 <img align="left" alt="jmathtech github stats" src="https://github-readme-stats.vercel.app/api?username=jmathtech&show_icons=true&hide_border=true" />
