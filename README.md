@@ -16,6 +16,7 @@
 <img align="left" alt="CSS" width="26px" src="https://user-images.githubusercontent.com/36749450/177061183-be13e28c-8239-454c-89bb-305f167e4cd8.png" />
 <img align="left" alt="JS" width="26px" src="https://user-images.githubusercontent.com/36749450/177061328-6beb2683-e60c-4aef-bc90-3b0266503df8.png" />
 <img align="left" alt="C Sharp" width="26px" src="https://user-images.githubusercontent.com/36749450/177061419-531d23ef-ada9-4922-8c39-d9481b7c3225.svg" />
+<img align="left" alt="PHP" width="26px" src="https://user-images.githubusercontent.com/36749450/177062060-d9001d61-4cd9-4b22-b101-3e682d547b8d.png" />
 <img align="left" alt="Mongo DB" width="26px" src="https://user-images.githubusercontent.com/36749450/177061842-11d38c3f-752c-42ea-a072-11a9ecafe357.svg" />
 <img align="left" alt="Express JS" width="26px" src="https://user-images.githubusercontent.com/36749450/177061902-88c0a898-fc24-43a0-bb2f-8c9d0d6895ea.png" />
 <img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/36749450/177061333-c348936b-7aa6-4a3e-a408-c525d478f4e5.png" />
