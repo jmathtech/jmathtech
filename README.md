@@ -2,19 +2,6 @@
   <source src="https://user-images.githubusercontent.com/36749450/177067409-cc9e25a6-c378-4d47-a4a2-42a2969aac7e.mp4" type="video/mp4" />
 </video>
 
-function initPlayer() {
-  var player = new Plyr("video", {
-    iconUrl: "../../vendor/plyr/plyr.svg",
-    controls: ["play-large", "play", "progress", "current-time"],
-    blankVideo: "../../vendor/plyr/blank.mp4",
-    fullscreen: {enabled: false},
-    hideControls: false,
-    storage: {enabled: false}
-  });
-}
-
-window.addEventListener("load", initPlayer);
-
 ## Hi, My name is Jamil Matheny and welcome to my Github page.
 
 ### Here's what I'm currently working on: 👋
