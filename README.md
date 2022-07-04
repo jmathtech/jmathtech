@@ -34,6 +34,5 @@
 <img align="left" alt="Github" width="36px" src="https://user-images.githubusercontent.com/36749450/177064697-6a05b929-79ae-4bcd-aa27-6cdc4d181427.svg" />
 <img align="left" alt="Git" width="36px" src="https://user-images.githubusercontent.com/36749450/177064788-1a7b909b-61f3-492e-8825-02d942af17d7.svg" />
 <img align="left" alt="NVIDIA Cuda" width="36px" src="https://user-images.githubusercontent.com/36749450/177064930-66700e5e-0e5f-4e40-9f7b-ff6fa06b5d91.svg" />
-
-
+<img align="left" alt="Pycharm" width="36px" src="https://user-images.githubusercontent.com/36749450/177065120-cc613933-0ba4-45f8-98cc-880156b73160.png" />
 
