@@ -1,4 +1,4 @@
-## Hi, My name is Jamil Matheny and welcome to my Github profile.
+## Hi, My name is Jamil Matheny and welcome to my Github page.
 
 ### Here's what I'm currently working on: 👋
 
