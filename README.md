@@ -32,5 +32,7 @@
 <img align="left" alt="Circle CI" width="36px" src="https://user-images.githubusercontent.com/36749450/177062519-ef1b7a6f-54ca-4764-95a7-ab5097dd7fda.png" />
 <img align="left" alt="VS Code" width="36px" src="https://user-images.githubusercontent.com/36749450/177062650-ef09b71f-8cc8-48be-b844-05b5856d4f1a.png" />
 <img align="left" alt="Github" width="36px" src="https://user-images.githubusercontent.com/36749450/177064697-6a05b929-79ae-4bcd-aa27-6cdc4d181427.svg" />
+<img align="left" alt="Git" width="36px" src="https://user-images.githubusercontent.com/36749450/177064788-1a7b909b-61f3-492e-8825-02d942af17d7.svg" />
+
 
 
