@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/36749450/177067409-cc9e25a6-c378-4d47-
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Contact Me](mailto:jamil.matheny@gmail.com)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I play guitar and shoot pictures.
+- ⚡ Fun fact: ... I started reading music, shooting pictures and repairing computers since I was 12.
 
 ### Programming languages I'm learning and currently working with
 <img align="left" alt="HTML" width="36px" src="https://user-images.githubusercontent.com/36749450/177061186-fae2ca56-0d6d-4b7e-82d4-b1994ffe0ac0.png" />
