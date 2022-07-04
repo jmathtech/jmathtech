@@ -23,6 +23,7 @@
 <img align="left" alt="React" width="36px" src="https://user-images.githubusercontent.com/36749450/177061333-c348936b-7aa6-4a3e-a408-c525d478f4e5.png" />
 <img align="left" alt="Node JS" width="36px" src="https://user-images.githubusercontent.com/36749450/177061691-8238df72-82ec-4653-a371-f438dec89de4.png" />
 <img align="left" alt="SQL" width="36px" src="https://user-images.githubusercontent.com/36749450/177061783-c6c445a0-a064-4094-a14f-7365cd955f01.png" />
+<img align="left" alt="Solidity" width="36px" src="https://user-images.githubusercontent.com/36749450/177066400-d12ac619-17d1-408f-8d3b-d6eca3f0998b.svg" />
 
 <br><br/>
 
@@ -36,5 +37,6 @@
 <img align="left" alt="NVIDIA Cuda" width="36px" src="https://user-images.githubusercontent.com/36749450/177064930-66700e5e-0e5f-4e40-9f7b-ff6fa06b5d91.svg" />
 <img align="left" alt="Pycharm" width="36px" src="https://user-images.githubusercontent.com/36749450/177065120-cc613933-0ba4-45f8-98cc-880156b73160.png" />
 <img align="left" alt="Apache" width="36px" src="https://user-images.githubusercontent.com/36749450/177065683-326092db-6b32-4bec-af1f-fe0466634297.svg" />
+
 
 
