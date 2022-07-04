@@ -43,4 +43,4 @@ https://user-images.githubusercontent.com/36749450/177067409-cc9e25a6-c378-4d47-
 <img align="left" alt="Apache" width="36px" src="https://user-images.githubusercontent.com/36749450/177065683-326092db-6b32-4bec-af1f-fe0466634297.svg" />
 
 
-
+<img align="left" alt="jmathtech github stats" src="https://github-readme-stats.vercel.app/api?username=jmathtech&show_icons=true&hide_border=true" />
