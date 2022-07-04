@@ -24,4 +24,5 @@
 <img align="left" alt="SQL" width="36px" src="https://user-images.githubusercontent.com/36749450/177061783-c6c445a0-a064-4094-a14f-7365cd955f01.png" />
 <img align="left" alt="Mobile Dev" width="36px" src="https://user-images.githubusercontent.com/36749450/177062150-e0b37c76-ac6f-45b6-b82b-d565b2d79023.png" />
 <img align="left" alt="Docker" width="36px" src="https://user-images.githubusercontent.com/36749450/177062468-6ec488a9-aa72-4ee6-adca-94c8c71df004.svg" />
+<img align="left" alt="Circle CI" width="36px" src="https://user-images.githubusercontent.com/36749450/177062519-ef1b7a6f-54ca-4764-95a7-ab5097dd7fda.png" />
 
