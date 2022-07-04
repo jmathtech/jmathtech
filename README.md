@@ -1,10 +1,6 @@
-<iframe
-    src="https://user-images.githubusercontent.com/36749450/177067409-cc9e25a6-c378-4d47-a4a2-42a2969aac7e.mp4"
-    allowfullscreen
-    allowtransparency
-    allow="autoplay"
-  ></iframe>
+https://user-images.githubusercontent.com/36749450/177067409-cc9e25a6-c378-4d47-a4a2-42a2969aac7e.mp4
 
+<br><br/>
 ## Hi, My name is Jamil Matheny and welcome to my Github page.
 
 ### Here's what I'm currently working on: 👋
@@ -31,6 +27,7 @@
 <img align="left" alt="Node JS" width="36px" src="https://user-images.githubusercontent.com/36749450/177061691-8238df72-82ec-4653-a371-f438dec89de4.png" />
 <img align="left" alt="SQL" width="36px" src="https://user-images.githubusercontent.com/36749450/177061783-c6c445a0-a064-4094-a14f-7365cd955f01.png" />
 <img align="left" alt="Solidity" width="36px" src="https://user-images.githubusercontent.com/36749450/177066400-d12ac619-17d1-408f-8d3b-d6eca3f0998b.svg" />
+
 
 <br><br/>
 
