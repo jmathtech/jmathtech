@@ -44,4 +44,4 @@ https://user-images.githubusercontent.com/36749450/177067409-cc9e25a6-c378-4d47-
 
 <br><br/>
 ### My Github Stats
-<img align="left" alt="jmathtech github stats" src="https://github-readme-stats.vercel.app/api?username=jmathtech&show_icons=true&hide_border=true&hide=contribs" />
+<img align="left" alt="jmathtech github stats" src="https://github-readme-stats.vercel.app/api?username=jmathtech&show_icons=true&hide_border=true&hide=contribs&theme=cobalt" />
