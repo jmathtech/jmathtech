@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/36749450/177067409-cc9e25a6-c378-4d47-
 <img align="left" alt="NVIDIA Cuda" width="36px" src="https://user-images.githubusercontent.com/36749450/177064930-66700e5e-0e5f-4e40-9f7b-ff6fa06b5d91.svg" />
 <img align="left" alt="Pycharm" width="36px" src="https://user-images.githubusercontent.com/36749450/177065120-cc613933-0ba4-45f8-98cc-880156b73160.png" />
 <img align="left" alt="Apache" width="36px" src="https://user-images.githubusercontent.com/36749450/177065683-326092db-6b32-4bec-af1f-fe0466634297.svg" />
+<img align="left" alt="Jupyter Notebook" width="36px" src="https://user-images.githubusercontent.com/36749450/177435243-d1e0bb29-cdd9-459f-b230-0885b144a8f0.jpg" />
 
-<br><br/>
 ### My Github Stats
 <img align="left" alt="jmathtech github stats" src="https://github-readme-stats.vercel.app/api?username=jmathtech&show_icons=true&hide_border=true&hide=contribs&theme=tokyonight" />
