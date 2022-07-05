@@ -2,7 +2,7 @@ https://user-images.githubusercontent.com/36749450/177067409-cc9e25a6-c378-4d47-
 
 <br><br/>
 
-### Hi, My name is Jamil Matheny and welcome to my Github page. I've studied computer science at ECPI University and self-taught with online coursework. My purpose for programming is to able to contribute to innovation and creative skill with a high level of enthusiasm for the future of technology. 
+### Hi, My name is Jamil Matheny and welcome to my Github page. I've studied computer science at ECPI University and through self-taught programming online coursework and books on web development. My purpose for programming is to able to contribute to innovation and creative skill with a high level of enthusiasm for the future of technology. 
 
 ### Here's what I'm currently working on: 👋
 
