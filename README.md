@@ -27,8 +27,6 @@ https://user-images.githubusercontent.com/36749450/179379730-d6c57906-ce3a-4070-
 <img align="left" alt="SQL" width="36px" src="https://user-images.githubusercontent.com/36749450/177061783-c6c445a0-a064-4094-a14f-7365cd955f01.png" /> 
 <img align="left" alt="Solidity" width="36px" src="https://user-images.githubusercontent.com/36749450/177066400-d12ac619-17d1-408f-8d3b-d6eca3f0998b.svg" />
 
-<br><br/>
-
 ### Developer Tools I Use
 <img align="left" alt="Mobile Dev" width="36px" src="https://user-images.githubusercontent.com/36749450/177062150-e0b37c76-ac6f-45b6-b82b-d565b2d79023.png" />
 <img align="left" alt="Docker" width="36px" src="https://user-images.githubusercontent.com/36749450/177062468-6ec488a9-aa72-4ee6-adca-94c8c71df004.svg" />
@@ -40,8 +38,6 @@ https://user-images.githubusercontent.com/36749450/179379730-d6c57906-ce3a-4070-
 <img align="left" alt="Pycharm" width="36px" src="https://user-images.githubusercontent.com/36749450/177065120-cc613933-0ba4-45f8-98cc-880156b73160.png" />
 <img align="left" alt="Apache" width="36px" src="https://user-images.githubusercontent.com/36749450/177065683-326092db-6b32-4bec-af1f-fe0466634297.svg" />
 <img align="left" alt="Jupyter Notebook" width="36px" src="https://user-images.githubusercontent.com/36749450/177435541-d937c664-166f-4285-8f85-0feb9db7bf6f.svg" />
-
-<br><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmathtech&theme=tokyonight)
 
