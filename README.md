@@ -1,8 +1,5 @@
 https://user-images.githubusercontent.com/36749450/179379730-d6c57906-ce3a-4070-8533-dc8db5d1402f.mp4
 
-
-<br><br/>
-
 ### Hi, My name is Jamil Matheny, and welcome to my Github page. I've studied computer science at ECPI University and through self-taught programming online coursework and books on web development. My purpose for programming, with my creative skills, is to contribute to innovation for the development of technology.
 
 ### Here's what I'm currently working on: 👋
@@ -45,6 +42,8 @@ https://user-images.githubusercontent.com/36749450/179379730-d6c57906-ce3a-4070-
 <img align="left" alt="Jupyter Notebook" width="36px" src="https://user-images.githubusercontent.com/36749450/177435541-d937c664-166f-4285-8f85-0feb9db7bf6f.svg" />
 
 <br><br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmathtech&hide=javascript,css,scss,html&theme=tokyonight)
 
 ### My Github Stats
 <img align="left" alt="jmathtech github stats" src="https://github-readme-stats.vercel.app/api?username=jmathtech&show_icons=true&hide_border=true&hide=contribs&theme=tokyonight" />
