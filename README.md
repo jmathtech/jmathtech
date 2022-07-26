@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/36749450/179379730-d6c57906-ce3a-4070-
 
 <br><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmathtech&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmathtech&theme=tokyonight)
 
 ### My Github Stats
 <img align="left" alt="jmathtech github stats" src="https://github-readme-stats.vercel.app/api?username=jmathtech&show_icons=true&hide_border=true&hide=contribs&theme=tokyonight" />
