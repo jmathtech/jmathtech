@@ -39,10 +39,8 @@ https://user-images.githubusercontent.com/36749450/179379730-d6c57906-ce3a-4070-
 <img align="left" alt="Apache" width="36px" src="https://user-images.githubusercontent.com/36749450/177065683-326092db-6b32-4bec-af1f-fe0466634297.svg" />
 <img align="left" alt="Jupyter Notebook" width="36px" src="https://user-images.githubusercontent.com/36749450/177435541-d937c664-166f-4285-8f85-0feb9db7bf6f.svg" />
 
-<br><br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmathtech&theme=tokyonight)
-
 
 ### My Github Stats
 <img align="left" alt="jmathtech github stats" src="https://github-readme-stats.vercel.app/api?username=jmathtech&show_icons=true&hide_border=true&hide=contribs&theme=tokyonight" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmathtech&theme=tokyonight)
