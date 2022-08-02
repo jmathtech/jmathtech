@@ -14,10 +14,6 @@ https://user-images.githubusercontent.com/36749450/182264214-9aafe9a1-0d5f-4c3e-
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I started reading/ writing music, shooting pictures and repairing computers since I was 12.
 
-### Links
-- <img align="left" alt="Stackoverflow" src="https://user-images.githubusercontent.com/1369864/57243772-84aeca00-6ffc-11e9-96d8-208315e070e8.png" /> [Stackoverflow](https://stackoverflow.com/users/12920349/jamil-matheny)
-- <img align="left" alt="LinkedIn" src="https://user-images.githubusercontent.com/1369864/57243772-84aeca00-6ffc-11e9-96d8-208315e070e8.png" /> [LinkedIn](https://www.linkedin.com/in/jamilmatheny)
-
 ### Programming languages I'm learning and currently working with
 <img align="left" alt="HTML" width="36px" src="https://user-images.githubusercontent.com/36749450/177061186-fae2ca56-0d6d-4b7e-82d4-b1994ffe0ac0.png" /> 
 <img align="left" alt="CSS" width="36px" src="https://user-images.githubusercontent.com/36749450/177061183-be13e28c-8239-454c-89bb-305f167e4cd8.png" /> 
