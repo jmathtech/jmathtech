@@ -1,14 +1,14 @@
 # Current Project I'm Working On  | [Link to Repository](https://github.com/jmathtech/zeus-suits-shop)
 https://user-images.githubusercontent.com/36749450/182264214-9aafe9a1-0d5f-4c3e-8f90-9e89dffc7cbc.mp4
 
-### Hi, My name is Jamil Matheny, and welcome to my Github page. I've studied computer science at ECPI University, through self-taught programming online coursework and books on web development. My purpose for programming/ coding is to contribute my skillset to innovate for the development of technology.
+### Hi, My name is Jamil Matheny (aka Mr. Surpass 'Hello World'), and welcome to my Github page. I've studied computer science at ECPI University, through self-taught programming online coursework and books on web development. My purpose for programming/ coding is to contribute my skillset to innovate for the development of technology.
 
 ### Here's what I'm currently working on: 👋
 
-- 🔭 I’m currently working on ... Youtube & Full Stack Web Developer Portfolio
-- 🌱 I’m currently learning ... React JS
-- 👯 I’m looking to collaborate on ... Three.js
-- 🤔 I’m looking for help with ... AWS
+- 🔭 I’m currently working on ... Youtube & Full-Stack Web Developer Portfolio
+- 🌱 I’m currently learning ... React JS, React Native, React Hooks
+- 👯 I’m looking to collaborate on ... WebGL
+- 🤔 I’m looking for help with ... Machine Learning
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Contact Me](mailto:jamil.matheny@gmail.com)
 - 😄 Pronouns: ... He/Him
