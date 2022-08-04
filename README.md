@@ -17,7 +17,8 @@ https://user-images.githubusercontent.com/36749450/182264214-9aafe9a1-0d5f-4c3e-
 ### Links
 - <img align="left" alt="Stackoverflow" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/240px-Stack_Overflow_icon.svg.png" />[Stackoverflow](https://stackoverflow.com/users/12920349/jamil-matheny)
 - <img align="left" alt="LinkedIn" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" />[LinkedIn](https://www.linkedin.com/in/jamilmatheny)
-- <img align="left" alt="Youtube" width="16" src="https://user-images.githubusercontent.com/36749450/182968876-5a08eba1-4865-4db5-963e-4f9cba2b2a5a.png" /> [Youtube](https://www.youtube.com/channel/UCa188a_sfeGL69KswFdP1tA)
+- <img align="left" alt="Youtube" width="16" src="https://user-images.githubusercontent.com/36749450/182968966-11dcf53b-0565-4e33-b450-7a17602c2a7d.png" /> [Youtube](https://www.youtube.com/channel/UCa188a_sfeGL69KswFdP1tA)
+
 
 ### Programming languages I'm learning and currently working with
 <img align="left" alt="HTML" width="36px" src="https://user-images.githubusercontent.com/36749450/177061186-fae2ca56-0d6d-4b7e-82d4-b1994ffe0ac0.png" /> 
