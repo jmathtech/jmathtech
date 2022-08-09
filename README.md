@@ -1,5 +1,4 @@
-# Current Project I'm Working On  | [Link to Repository](https://github.com/jmathtech/zeus-suits-shop)
-https://user-images.githubusercontent.com/36749450/182264214-9aafe9a1-0d5f-4c3e-8f90-9e89dffc7cbc.mp4
+https://www.youtube.com/watch?v=8GvvXovqrgQ
 
 ### Hi, My name is Jamil Matheny, and welcome to my Github page. I've studied computer science at ECPI University, through self-taught programming online coursework and books on web development. My purpose for programming/ coding is to contribute my skillset to innovate for the development of technology.
 
