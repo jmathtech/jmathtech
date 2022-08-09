@@ -1,3 +1,7 @@
+<a href="https://www.youtube.com/watch?v=8GvvXovqrgQ" target="_blank">
+ <img src="https://i.ytimg.com/an_webp/8GvvXovqrgQ/mqdefault_6s.webp?du=3000&sqp=CJizypcG&rs=AOn4CLAzEz5YKxrCXliB7QGXxVI0Bu6lrw" alt="Watch this Video" width="720" border="10" />
+</a>
+
 ### Hi, My name is Jamil Matheny, and welcome to my Github page. I've studied computer science at ECPI University, through self-taught programming online coursework and books on web development. My purpose for programming/ coding is to contribute my skillset to innovate for the development of technology.
 
 ### Here's what I'm currently working on: 👋
