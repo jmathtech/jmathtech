@@ -52,6 +52,6 @@
 <br><br>
 
 ### My Github Stats
-<img align="left" width="320" alt="jmathtech github stats" src="https://github-readme-stats.vercel.app/api?username=jmathtech&show_icons=true&hide_border=true&hide=contribs&theme=tokyonight" /> 
+<img align="left" alt="jmathtech github stats" src="https://github-readme-stats.vercel.app/api?username=jmathtech&show_icons=true&hide_border=true&hide=contribs&theme=tokyonight" /> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmathtech&theme=tokyonight)
