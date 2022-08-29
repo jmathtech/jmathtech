@@ -16,15 +16,15 @@
 
 ### My System OS & PC Specs
 ```
-| Windows OS                     | Linux                                   |
-| -------------                  |:---------------------------------------:| 
-| ASUS ROX Strix G10CE           | ASUS Transformer Book Flip TP500LA      |
-| NVIDIA GeForce RTX 3060        | NVIDIA GeForce 840M                     |
-| Intel Core i7 64-Bit           | Intel Core i7 64-Bit                    | 
-| 16 GB DDR RAM                  | 16 GB RAM                               |
-| 1TB NVIe SSD                   | 1TB SSD 512 HDD                         |
-| Windows 11                     | POP OS                                  |
-____________________________________________________________________________
+| Windows OS                      | Linux                                     |
+| :-----------------------------: | :---------------------------------------: | 
+| ASUS ROX Strix G10CE            | ASUS Transformer Book Flip TP500LA        |
+| NVIDIA GeForce RTX 3060         | NVIDIA GeForce 840M                       |
+| Intel Core i7 64-Bit            | Intel Core i7 64-Bit                      | 
+| 16 GB DDR RAM                   | 16 GB RAM                                 |
+| 1TB NVIe SSD                    | 1TB SSD 512 HDD                           |
+| Windows 11                      | POP OS                                    |
+_______________________________________________________________________________
 
 Windows 11 Home Edition - Adobe Creative Suite, Kdenlive, Git Bash, Visual Studio Code, Blender, Unity
 Linux - Pop OS, Kali, Debian OS, Ubuntu ... (Testing Shell Scripts)
