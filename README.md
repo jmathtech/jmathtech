@@ -16,7 +16,15 @@
 
 ### Operating Systems
 ```
-Windows 11 Home Edition - Adobe Creative Suite, Kdenlive, Git Bash, Visual Studio Code, [url=https://www.blender.org]Blender[/url], Unity,
+| Windows OS    | Linux           |
+| ------------- |:---------------:| 
+| Intel Core i7 | Intel Core i7   | 
+| 16 GB DDR RAM | 16 GB RAM       |
+| 1TB NVIe SSD  | 1TB SSD 512 HDD |
+| Windows 11    | POP OS          |
+___________________________________
+
+Windows 11 Home Edition - Adobe Creative Suite, Kdenlive, Git Bash, Visual Studio Code, Blender, Unity
 Linux - Pop OS, Kali, Debian OS, Ubuntu ... (Testing Shell Scripts)
 ```
 
