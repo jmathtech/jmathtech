@@ -16,8 +16,8 @@
 
 ### Operating Systems
 ```
-Windows 11 Home Edition
-Linux - Pop OS
+Windows 11 Home Edition - Adobe Creative Suite, Kdenlive, Git Bash, Visual Studio Code, [url=https://www.blender.org]Blender[/url], Unity,
+Linux - Pop OS, Kali, Debian OS, Ubuntu ... (Testing Shell Scripts)
 ```
 
 
