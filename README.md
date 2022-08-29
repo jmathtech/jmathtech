@@ -15,10 +15,10 @@
 - ⚡ Fun fact: ... I started reading/ writing music, shooting pictures and repairing computers since I was 12.
 
 ### Operating Systems
-[code]
+```
 Windows 11 Home Edition
 Linux - Pop OS
-[/code]
+```
 
 
 
