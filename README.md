@@ -14,6 +14,14 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I started reading/ writing music, shooting pictures and repairing computers since I was 12.
 
+### Operating Systems
+[code]
+Windows 11 Home Edition
+Linux - Pop OS
+[/code]
+
+
+
 ### Links
 - <img align="left" alt="Stackoverflow" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/240px-Stack_Overflow_icon.svg.png" />[Stackoverflow](https://stackoverflow.com/users/12920349/jamil-matheny)
 - <img align="left" alt="LinkedIn" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" />[LinkedIn](https://www.linkedin.com/in/jamilmatheny)
