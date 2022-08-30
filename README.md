@@ -21,7 +21,7 @@
 | ASUS ROX Strix G10CE            | ASUS Transformer Book Flip TP500LA        |
 | NVIDIA GeForce RTX 3060         | NVIDIA GeForce 840M                       |
 | Intel Core i7 64-Bit            | Intel Core i7 64-Bit                      | 
-| 16 GB DDR RAM                   | 16 GB RAM                                 |
+| 16 GB DDR4 RAM                  | 16 GB RAM                                 |
 | 1TB NVIe SSD                    | 1TB SSD 512 HDD                           |
 | Windows 11                      | POP OS                                    |
 _______________________________________________________________________________
