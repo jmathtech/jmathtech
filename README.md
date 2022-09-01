@@ -21,11 +21,11 @@
 ```
 | Windows OS                      | Linux                                     |
 | :-----------------------------: | :---------------------------------------: | 
-| ASUS ROX Strix G10CE            | ASUS Transformer Book Flip TP500LA        |
+| ASUS ROG Strix GL10             | ASUS Transformer Book Flip TP500LA        |
 | NVIDIA GeForce RTX 3060         | NVIDIA GeForce 840M                       |
 | Intel Core i7 64-Bit            | Intel Core i7 64-Bit                      | 
 | 16 GB DDR4 RAM                  | 16 GB RAM                                 |
-| 1TB NVMe SSD                    | 1TB SSD 512 HDD                           |
+| 1TB NVMe SSD                    | 1TB SSD 512 HDD Hybrid                    |
 | Windows 11                      | POP OS                                    |
 _______________________________________________________________________________
 
