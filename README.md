@@ -1,5 +1,5 @@
 ## Latest Youtube Video
-<a href="https://www.youtube.com/watch?v=jP4reSBe40o" target="_new"> <img src="https://user-images.githubusercontent.com/36749450/188177464-2fcab2e9-aa80-42f3-9063-91275108884e.png" alt="Youtube Video" width="800" /></a>
+<a href="https://youtu.be/HWVnMxeZY0k" target="_new"> <img src="https://user-images.githubusercontent.com/36749450/190431522-7e54b999-f647-4731-87a5-e0ab9961fe72.png" alt="Youtube Video" width="800" /></a>
 
 
 ## Newest Project Link
