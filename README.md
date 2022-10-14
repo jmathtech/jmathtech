@@ -2,7 +2,7 @@
 <a href="https://youtu.be/HWVnMxeZY0k" target="_new"> <img src="https://user-images.githubusercontent.com/36749450/190431522-7e54b999-f647-4731-87a5-e0ab9961fe72.png" alt="Youtube Video" width="800" /></a>
 
 
-## Newest Project Link
+## Latest Project Link
 [ZEUS SUITS SHOP DEMO SITE](https://jmathtech.github.io/zeus-suits-shop/)
 
 ### Hi, My name is Jamil Matheny, and welcome to my GitHub profile. I've studied computer science at ECPI University, through self-taught programming online coursework and books on web development. My purpose for programming/ coding is to contribute my skillset to innovate for the development of technology.
