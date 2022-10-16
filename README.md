@@ -27,7 +27,7 @@
 | Intel Core i7 64-Bit            | Intel Core i7 64-Bit                      | 
 | 16 GB DDR4 RAM                  | 16 GB DDR4 RAM                            |
 | 1TB NVMe SSD                    | 1TB SSD 512 HDD Hybrid                    |
-| Windows 11                      | POP OS                                    |
+| Windows 11                      | POP OS Linux                              |
 _______________________________________________________________________________
 
 Windows 11 Home Edition - Adobe Creative Suite, Kdenlive, Git Bash, Visual Studio Code, Blender, Unity
