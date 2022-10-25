@@ -18,7 +18,7 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I started reading/ writing music, shooting pictures and repairing computers since I was 12.
 
-### My System OS & PC Specs
+### My PC Specs
 ```
 | Windows OS                      | Linux                                     |
 | :-----------------------------: | :---------------------------------------: | 
