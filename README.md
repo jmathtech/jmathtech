@@ -5,7 +5,7 @@
 ## Latest Project
 [ZEUS SUITS SHOP DEMO SITE](https://jmathtech.github.io/zeus-suits-shop/)
 
-### Hi, My name is Jamil Matheny, and welcome to my GitHub profile. I've studied computer science at ECPI University, through self-taught programming online coursework and books on web development. <a href="https://www.youtube.com/channel/UCa188a_sfeGL69KswFdP1tA">Subscribe</a> to my Youtube Channel, where I discuss topics related to tech.
+### Hi, My name is Jamil Matheny, and welcome to my GitHub profile. I've studied computer science at ECPI University, through self-taught programming online coursework and books on web development. <a href="https://www.youtube.com/channel/UCa188a_sfeGL69KswFdP1tA?sub_confirmation=1">Subscribe</a> to my Youtube Channel, where I discuss topics related to tech.
 
 ### Here's what I'm currently working on:
 
