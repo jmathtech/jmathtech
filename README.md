@@ -1,7 +1,6 @@
 ## Newest Youtube Video
 <a href="https://www.youtube.com/watch?v=GKG3v9-CTFs" target="_new"> <img src="https://user-images.githubusercontent.com/36749450/196520780-2613c3a7-8e81-469a-b750-9da499513297.png" alt="Youtube Video" width="800" /></a>
 
-
 ## Latest Project
 [ZEUS SUITS SHOP DEMO SITE](https://jmathtech.github.io/zeus-suits-shop/)
 
@@ -33,8 +32,6 @@ _______________________________________________________________________________
 Windows 11 Home Edition - Adobe Creative Suite, Kdenlive, Git Bash, Visual Studio Code, Blender, Unity
 Linux - Pop OS, Kali, Debian OS, Ubuntu ... (Testing Shell Scripts)
 ```
-
-
 
 ### Links
 - <img align="left" alt="Stackoverflow" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/240px-Stack_Overflow_icon.svg.png" />[Stackoverflow](https://stackoverflow.com/users/12920349/jamil-matheny)
