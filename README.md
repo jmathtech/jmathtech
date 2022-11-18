@@ -1,5 +1,5 @@
 ## Newest Youtube Video
-<a href="https://www.youtube.com/watch?v=GKG3v9-CTFs" target="_new"> <img src="https://user-images.githubusercontent.com/36749450/196520780-2613c3a7-8e81-469a-b750-9da499513297.png" alt="Youtube Video" width="800" /></a>
+<a href="https://www.youtube.com/watch?v=GKG3v9-CTFs" target="_new"> <img src="https://user-images.githubusercontent.com/36749450/202778820-16d187c1-267c-478f-aa08-8510ee5ef117.png" alt="Youtube Video" width="800" /></a>
 
 ## Latest Project
 [ZEUS SUITS SHOP DEMO SITE](https://jmathtech.github.io/zeus-suits-shop/)
