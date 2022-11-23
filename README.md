@@ -6,7 +6,7 @@
 
 ### Hi, My name is Jamil Matheny, and welcome to my GitHub profile. I've studied computer science at ECPI University, through self-taught programming online coursework and books on web development. <a href="https://www.youtube.com/channel/UCa188a_sfeGL69KswFdP1tA?sub_confirmation=1">Subscribe</a> to my Youtube Channel, where I discuss topics related to tech.
 
-### Here's what I'm currently working on:
+## Here's what I'm currently working on:
 
 - 🔭 I’m currently working on ... Youtube & Full-Stack Web Developer Portfolio
 - 🌱 I’m currently learning ... React JS, React Native, React Hooks
@@ -17,7 +17,7 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I started reading/ writing music, shooting pictures and repairing computers since I was 12.
 
-### My PC Specs
+## My PC Specs
 ```
 | Windows OS                      | Linux                                     |
 | :-----------------------------: | :---------------------------------------: | 
@@ -33,13 +33,13 @@ Windows 11 Home Edition - Adobe Creative Suite, Kdenlive, Git Bash, Visual Studi
 Linux - Pop OS, Kali, Debian OS, Ubuntu ... (Testing Shell Scripts)
 ```
 
-### Links
+## Links
 - <img align="left" alt="Stackoverflow" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/240px-Stack_Overflow_icon.svg.png" />[Stackoverflow](https://stackoverflow.com/users/12920349/jamil-matheny)
 - <img align="left" alt="LinkedIn" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" />[LinkedIn](https://www.linkedin.com/in/jamilmatheny)
 - <img align="left" alt="Youtube" width="16" src="https://user-images.githubusercontent.com/36749450/182968966-11dcf53b-0565-4e33-b450-7a17602c2a7d.png" /> [Youtube](https://www.youtube.com/channel/UCa188a_sfeGL69KswFdP1tA)
 
 
-### Programming languages I'm learning and currently working with
+## Programming languages I'm learning and currently working with
 <img align="left" alt="HTML" width="36px" src="https://user-images.githubusercontent.com/36749450/177061186-fae2ca56-0d6d-4b7e-82d4-b1994ffe0ac0.png" /> 
 <img align="left" alt="CSS" width="36px" src="https://user-images.githubusercontent.com/36749450/177061183-be13e28c-8239-454c-89bb-305f167e4cd8.png" /> 
 <img align="left" alt="JS" width="36px" src="https://user-images.githubusercontent.com/36749450/177061328-6beb2683-e60c-4aef-bc90-3b0266503df8.png" /> 
@@ -55,7 +55,7 @@ Linux - Pop OS, Kali, Debian OS, Ubuntu ... (Testing Shell Scripts)
 
 <br><br>
 
-### Developer Tools I Use
+## Developer Tools I Use
 <img align="left" alt="Mobile Dev" width="36px" src="https://user-images.githubusercontent.com/36749450/177062150-e0b37c76-ac6f-45b6-b82b-d565b2d79023.png" />
 <img align="left" alt="Docker" width="36px" src="https://user-images.githubusercontent.com/36749450/177062468-6ec488a9-aa72-4ee6-adca-94c8c71df004.svg" />
 <img align="left" alt="Circle CI" width="36px" src="https://user-images.githubusercontent.com/36749450/177062519-ef1b7a6f-54ca-4764-95a7-ab5097dd7fda.png" />
@@ -69,7 +69,7 @@ Linux - Pop OS, Kali, Debian OS, Ubuntu ... (Testing Shell Scripts)
 
 <br><br>
 
-### My Github Stats
+## My Github Stats
 <img align="left" alt="jmathtech github stats" src="https://github-readme-stats.vercel.app/api?username=jmathtech&show_icons=true&hide_border=true&hide=contribs&theme=tokyonight" /> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmathtech&theme=tokyonight)
