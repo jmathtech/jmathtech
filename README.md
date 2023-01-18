@@ -69,6 +69,6 @@ Linux - Pop OS, Kali, Debian OS, Ubuntu ... (Testing Shell Scripts)
 <br><br>
 
 ## My Github Stats
-<img align="left" alt="jmathtech github stats" src="https://github-readme-stats.vercel.app/api?username=jmathtech&show_icons=true&hide_border=true&hide=contribs&theme=flag-india" /> 
+<img align="left" alt="jmathtech github stats" src="https://github-readme-stats.vercel.app/api?username=jmathtech&show_icons=true&hide_border=true&hide=contribs&theme=transparent" /> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmathtech&theme=flag-india)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmathtech&theme=transparent)
