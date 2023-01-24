@@ -5,7 +5,7 @@
 
 ## Currently working on
 ### Latest Repository
-<a href="https://github.com/jmathtech/Cash-5-Lottery-Random-Number-Generator">Cash 5 Random Number Generator</a>
+<a href="https://github.com/jmathtech/BMI_Calculator">Body Mass Index Calculator [Python GUI]</a>
 
 - 🔭 I’m currently working on ... Youtube & Full-Stack Web Developer Portfolio
 - 🌱 I’m currently learning ... A.I., Machine Learning modeling, Neural Networks, Python scripts and libraries
