@@ -38,7 +38,7 @@ Linux - Pop OS, Kali, Debian OS, Ubuntu ... (Testing Shell Scripts)
 - <img align="left" alt="Youtube" width="16" src="https://user-images.githubusercontent.com/36749450/182968966-11dcf53b-0565-4e33-b450-7a17602c2a7d.png" /> [Youtube](https://www.youtube.com/channel/UCa188a_sfeGL69KswFdP1tA)
 
 
-## Programming languages I'm learning and currently using:
+## Programming languages I'm learning and currently using
 <img align="left" alt="HTML" width="36px" src="https://user-images.githubusercontent.com/36749450/177061186-fae2ca56-0d6d-4b7e-82d4-b1994ffe0ac0.png" /> 
 <img align="left" alt="CSS" width="36px" src="https://user-images.githubusercontent.com/36749450/177061183-be13e28c-8239-454c-89bb-305f167e4cd8.png" /> 
 <img align="left" alt="JS" width="36px" src="https://user-images.githubusercontent.com/36749450/177061328-6beb2683-e60c-4aef-bc90-3b0266503df8.png" /> 
