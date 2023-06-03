@@ -19,14 +19,14 @@
 
 ## My PC Specs
 ```
-| Windows OS                      | Linux                                     |
+| Windows OS                      | MAC OS                                    |
 | :-----------------------------: | :---------------------------------------: | 
-| ASUS ROG Strix GL10             | ASUS Transformer Book Flip TP500LA        |
-| NVIDIA GeForce RTX 3060         | NVIDIA GeForce 840M                       |
-| Intel Core i7 64-Bit            | Intel Core i7 64-Bit                      | 
-| 16 GB DDR4 RAM                  | 16 GB DDR4 RAM                            |
-| 1TB NVMe SSD                    | 1TB SSD 512 HDD Hybrid                    |
-| Windows 11                      | POP OS Linux                              |
+| ASUS ROG Strix GL10             | iMac (21.5-inch, Late 2012                |
+| NVIDIA GeForce RTX 3060         | NVIDIA GeForce GT 640M 512 MB             |
+| Intel Core i7 64-Bit            | 2.7 GHz Quad-core Intel Core i5           | 
+| 16 GB DDR4 RAM                  | 8 GB DDR3 1600MHz                         |
+| 1TB NVMe SSD                    | 256GB SSD                                 |
+| Windows 11                      | macOS Catalina                            |
 _______________________________________________________________________________
 
 Windows 11 Home Edition - Adobe Creative Suite, Kdenlive, Git Bash, Visual Studio Code, Blender, Unity
