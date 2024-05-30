@@ -1,6 +1,3 @@
-## Latest Youtube Video
-<a href="https://www.youtube.com/watch?v=mT7iY6COaTU" target="_new"> <img src="https://user-images.githubusercontent.com/36749450/224736765-54978780-f75b-4445-b041-cd5fe86464f8.png" alt="Youtube Video" width="850" /></a>  
-
 ### Welcome to my GitHub profile! My name is Jamil and I am a computer science enthusiast. I have gained knowledge through a combination of university education, self-taught programming, and software engineering books. If you're interested in technology, be sure to check out my <a href="https://www.youtube.com/channel/UCa188a_sfeGL69KswFdP1tA?sub_confirmation=1">Youtube channel</a> where I delve into various related topics.
 
 ## Currently working on
