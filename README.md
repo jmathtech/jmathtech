@@ -8,14 +8,14 @@ https://github.com/user-attachments/assets/8f3a089f-22fe-466c-a1a1-c8090310b7f3
 ### Latest Repository
 <a href="https://github.com/jmathtech/Cearco">Cearco</a>
 
-- 🔭 I’m currently working on ... Youtube & Full-Stack Web Developer Portfolio
-- 🌱 I’m currently learning ... Python scripts and libraries
-- 👯 I’m looking to collaborate on ... 3D modeling, Machine Learning
-- 🤔 I’m looking for help with ... Machine Learning
+- 🔭 I’m currently working on ... Youtube & Building a Web Dev Portfolio on [Majestik Magik](https://www.majestikmagik.com)
+- 🌱 I’m currently learning ... Python, Next.js and React.js
+- 👯 I’m looking to collaborate on ... Next.js projects
+- 🤔 I’m looking for help with ... AI Prompt Engineering
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Contact Me](mailto:jamil.matheny@majestikmagik.com)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I started reading/ writing music, photography, writing computer code and repairing computers since I was 13. I'm so <img src="https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667">
+- ⚡ Fun fact: ... I have many hobbies which include composing songs, photography, coding and car repair since a jit.
 
 ## My PC Specs
 ```
