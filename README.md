@@ -12,7 +12,6 @@ https://github.com/user-attachments/assets/8f3a089f-22fe-466c-a1a1-c8090310b7f3
 - 🌱 I’m currently learning ... Python, Next.js and React.js
 - 👯 I’m looking to collaborate on ... Next.js projects
 - 🤔 I’m looking for help with ... AI Prompt Engineering
-- 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Contact Me](mailto:jamil.matheny@majestikmagik.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I have many hobbies which include composing songs, photography, coding and car repair since a jit.
