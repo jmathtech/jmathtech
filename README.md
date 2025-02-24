@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile! My name is Jamil and I am a computer science enthusiast. I have gained knowledge through a combination of university education, self-taught programming, and software engineering books. If you're interested in technology, be sure to check out my <a href="https://www.youtube.com/channel/UCa188a_sfeGL69KswFdP1tA?sub_confirmation=1">Youtube channel</a> where I delve into various related topics.
+### Hi and welcome to my GitHub profile! My name is Jamil and I am a computer enthusiast. I have gained knowledge through a combination of university education, self-taught programming, and books. If you're also interested in cutting edge technology as much as I am, check out my <a href="https://www.youtube.com/channel/UCa188a_sfeGL69KswFdP1tA?sub_confirmation=1">Youtube channel</a> where I delve into related topics.
 
 ## Currently working on
 # Majestik Magik Cleaning Web App
