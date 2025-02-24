@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/8f3a089f-22fe-466c-a1a1-c8090310b7f3
 - <a href="https://www.parrisgainer.com">ParrisGainer.com</a>
 - <a href="https://noelcustoms.shop">NoelCustoms.shop</a>
 
-
+<hr />
 - 🔭 I’m currently working on ... Youtube & Building a Web Dev Portfolio on [Majestik Magik](https://www.majestikmagik.com)
 - 🌱 I’m currently learning ... Python, Next.js and React.js
 - 👯 I’m looking to collaborate on ... Next.js projects
