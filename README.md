@@ -7,7 +7,11 @@ https://github.com/user-attachments/assets/8f3a089f-22fe-466c-a1a1-c8090310b7f3
 
 ### Latest Repository
 <a href="https://github.com/jmathtech/Cearco">Cearco Chemicals</a>
-- Client's website - <a href="https://www.cearcochemicals.com">Cearco Chemicals.com</a>
+- Client's website -
+- <a href="https://www.cearcochemicals.com">CearcoChemicals.com</a>
+- <a href="https://www.parrisgainer.com">ParrisGainer.com</a>
+- <a href="https://noelcustoms.shop">NoelCustoms.shop</a>
+
 
 - 🔭 I’m currently working on ... Youtube & Building a Web Dev Portfolio on [Majestik Magik](https://www.majestikmagik.com)
 - 🌱 I’m currently learning ... Python, Next.js and React.js
