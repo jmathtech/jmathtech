@@ -16,8 +16,8 @@ https://github.com/user-attachments/assets/8f3a089f-22fe-466c-a1a1-c8090310b7f3
 <hr />
 - 🔭 I’m currently working on ... Youtube & Building a Web Dev Portfolio on <a href="https://www.majestikmagik.com" alt="Majestik Magik - Web Design">Majestik Magik</a>
 - 🌱 I’m currently learning ... Python, Next.js and React.js
-- 👯 I’m looking to collaborate on ... Next.js projects
-- 🤔 I’m looking for help with ... AI Prompt Engineering
+- 👯 I’m looking to collaborate on ... Next.js & AWS Cloud Computing projects
+- 🤔 I’m looking for help with ... LLM Prompt Engineering
 - 📫 How to reach me: ... <a href="mailto:jamil.matheny@majestikmagik.com">Click here to e-mail</a>
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I have many hobbies which include composing songs, playing guitar, photography, coding and car repair since a jit.
