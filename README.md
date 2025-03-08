@@ -34,8 +34,6 @@ https://github.com/user-attachments/assets/8f3a089f-22fe-466c-a1a1-c8090310b7f3
 | Windows 11                      | macOS Catalina                            |
 _______________________________________________________________________________
 
-Windows 11 Home Edition - Adobe Creative Suite, Kdenlive, Git Bash, Visual Studio Code, Blender, Unity
-Linux - Pop OS, Kali, Debian OS, Ubuntu ... (Testing Shell Scripts)
 ```
 
 ## Links
