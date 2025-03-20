@@ -1,7 +1,7 @@
 ### Hi and welcome to my GitHub profile! My name is Jamil and I am a tech enthusiast. I have gained knowledge through a combination of university education, self-taught programming, and books. If you're interested in cutting edge technology as much as I am, check out my <a href="https://www.youtube.com/channel/UCa188a_sfeGL69KswFdP1tA?sub_confirmation=1">Youtube channel</a> where I delve into related topics.
 
 ## Currently developing: 
-#(https://github.com/jmathtech/jamilcleaningapp)[Majestik Magik Cleaning Web App]
+#[https://github.com/jmathtech/jamilcleaningapp](Majestik Magik Cleaning | Booking App)
 https://github.com/user-attachments/assets/8f3a089f-22fe-466c-a1a1-c8090310b7f3
 
 
