@@ -32,6 +32,9 @@ https://github.com/user-attachments/assets/8f3a089f-22fe-466c-a1a1-c8090310b7f3
 _______________________________________________________________________________
 
 ```
+## My Action Figure 
+### Developer Hoodie, Carpal Tunnel, Enhanced Impostor Syndrome and Vibe Coding Sold Separately! 
+![1744403853403ylavyxhw](https://github.com/user-attachments/assets/b0bbffc9-6a14-493a-8e6b-41308242040e)
 
 ## Links
 - <img align="left" alt="Stackoverflow" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/240px-Stack_Overflow_icon.svg.png" />[Stackoverflow](https://stackoverflow.com/users/12920349/jamil-matheny)
