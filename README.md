@@ -33,7 +33,7 @@ _______________________________________________________________________________
 
 ```
 ## My Action Figure 
-### Developer Hoodie, Carpal Tunnel, Enhanced Impostor Syndrome and Vibe Coding Sold Separately! 
+### [i]Developer Hoodie, Carpal Tunnel, Enhanced Impostor Syndrome and Vibe Coding Sold Separately! [/i]
 ![1744403853403ylavyxhw](https://github.com/user-attachments/assets/b0bbffc9-6a14-493a-8e6b-41308242040e)
 
 ## Links
